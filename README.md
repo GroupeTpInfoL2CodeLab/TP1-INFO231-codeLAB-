@@ -1,20 +1,42 @@
 # TP1-INFO231-codeLAB-
-maitrise du code
-Exercices en C – INF 231
-Ce depot contient une série d’exercices en langage C, réalisés par l’équipe CodeLAB.
+maitrise du code  
+
+Exercices en C – INF 231   
+
+Ce depot contient une série d’exercices en langage C, réalisés par l’équipe CodeLAB.  
+
 Chaque exercice est implémenté dans un fichier .c
+
 
 📂 Organisation du projet
 
 │── somme\_matrices.c             # Exercice 1
+
+
 │── produit\_matrices.c           # Exercice 2
+
+
 │── recherche\_seq.c              # Exercice 3
+
+
 │── multiplication\_ab.c          # Exercice 4
+
+
 │── test\_tri.c                   # Exercice 5
+
+
 │── mediane.c                    # Exercice 6
+
+
 │── inverser\_tableau.c           # Exercice 7
+
+
 │── produit\_vectoriel.c          # Exercice 8
+
+
 │── produit\_vecteur\_matrice.c    # Exercice 9
+
+
 
 📌 Liste des exercices
 Somme de matrices
